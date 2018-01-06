@@ -1,2 +1,2 @@
-# raspotify-salt
-Salt formula for installing Raspotify
+# raspotify-formula
+Salt formula for installing [Raspotify](https://github.com/dtcooper/raspotify)
